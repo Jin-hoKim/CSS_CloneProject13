@@ -1,0 +1,21 @@
+{
+    "name": "CSS_CloneProject13",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html",
+        "stop": "taskkill -F -IM node.exe"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jin-hoKim/CSS_CloneProject13.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Jin-hoKim/CSS_CloneProject13/issues"
+    },
+    "homepage": "https://github.com/Jin-hoKim/CSS_CloneProject13#readme"
+}
